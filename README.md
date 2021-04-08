@@ -1,4 +1,4 @@
-# pwd-html
+#pwd-html
 Repo untuk mengumpulkan tugas series HTML-1.
 Nama reponya pwd-html.
 
