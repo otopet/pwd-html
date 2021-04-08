@@ -5,3 +5,5 @@ Repo untuk mengumpulkan tugas series HTML-1
 
 Buatlah html dengan keluaran sebagai berikut:
 ![html1 gif](https://user-images.githubusercontent.com/77085799/113954141-7f3f0780-9843-11eb-993f-e71f6412ab84.gif)
+
+Untuk membuat file .html seperti diatas, silahkan pelajari series HTMl di alamat: https://www.w3schools.com/html/html_lists.asp, dari topik HTML HOME - HTML Block & Inline
