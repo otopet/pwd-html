@@ -1,0 +1,18 @@
+TUJUAN MATERI		: Mengetahui Fungsi dan Tujuan dari Fork, Branch dan Git
+ISI LAPORAN PRAKTIKUM: 
+--> Fitur fork pada github berguna untuk mencopy code kedalam repository yang kita miliki dengan mudah dan cepat, struktur repository yang kita fork akan pindah sama persis pada kita. Lalu menggunakan fork kita dapat mengupdate repositori master atau repository yang kita fork dengan membuat PR(Pull Request), jika code yang di push sudah sesuai harapan maka admin dapat merge atau menggabungkan dengan repository utama, sehingga orang dapat berkontribusi dengan code yang di ada pada github
+--> Branch merupakan merupakan bagian dari main repository master branch yang memiliki history yang berbeda dengan master dan bisa di jadikan satu dengan master atau main branch asalkan latest history nya sama, jika latest perubahannya tidak sama maka biasanya akan terjadi conflict.
+
+--> Git merupakan aplikasi untuk mengatur versi dari source code program anda dengan mengasih tanda baris dan code mana yang ditambah atau diganti. Berikut perintah-perintah dasar pada git:
+Git init : untuk membuat repository pada file lokal yang nantinya ada folder .git
+Git status : untuk mengetahui status dari repository lokal
+Git add : menambahkan file baru pada repository yang dipilih
+Git commit : untuk menyimpan perubahan yang dilakukan, tetapi tidak ada perubahan pada remote repository.
+Git push : untuk mengirimkan perubahan file setelah di commit ke remote repository.
+Git branch : melihat seluruh branch yang ada pada repository
+Git checkout : menukar branch yang aktif dengan branchyang dipilih
+GIt merge : untuk menggabungkan branch yang aktif dan branch yang dipilih
+Git clone : membuat Salinan repository lokal
+
+Nama : Andika Restu Saputra
+NPM : 19010004
