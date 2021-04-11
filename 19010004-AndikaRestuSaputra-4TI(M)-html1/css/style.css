@@ -1,0 +1,50 @@
+
+.container {
+    padding: 0 40px;
+}
+
+
+.header {
+    text-align: center;
+    color: dodgerblue;
+}
+
+.section .one{
+    text-align: left;
+    color: grey;
+}
+
+.section .two {
+    text-align: center;
+    color: blue;
+}
+
+.section .three {
+    text-align: right;
+    color: blue;
+}
+
+title {
+    color: dodgerblue;
+}
+a {
+    color: dodgerblue;
+}
+
+table {
+    width: 100%;
+    ;
+}
+
+table thead{
+    text-align: left;
+}
+
+table tbody{
+    text-align: center;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+}
