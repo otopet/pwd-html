@@ -1,0 +1,40 @@
+/* style pada index.html * /
+
+/*style pada buah.html  dan biji.html */
+
+h1 {
+
+    color: rgb(30, 144, 255);
+    text-align: center;
+}
+h2 {
+    color: rgb(30, 144, 255);
+    text-align: center;
+}
+
+
+.paragraf1 {
+    text-align: left;
+    color: silver;
+
+}
+
+.paragraf2{ 
+
+text-align: center;
+    color: blue;
+}
+
+.paragraf3{ 
+
+    text-align: right;
+        color:green;
+    }
+
+
+/* style pada index.html */
+
+    /* style pada index.html */
+    li {
+        font-weight:bold;
+    }
